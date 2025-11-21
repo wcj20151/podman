@@ -1,0 +1,2 @@
+FROM registry.redhat.io/rhel8/python-39:latest
+ENTRYPOINT ["/usr/bin/python3"]
